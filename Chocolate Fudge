@@ -5,4 +5,25 @@
   <title> Recipes </title>
   </head>
   <body>
-    
+    <h1> Chocolate Fudge </h1>
+    <h2> Description <h2>
+    <p> This chocolate fudge is absolutely delightful!</p>
+    <p> The recipe below is guaranteed to give you satisfaction. </p>
+    <h2> Ingredients </h2>
+    <ul> 
+      <li> chocolate </li>
+      <li> salt </li>
+      <li> vanilla </li>
+      <li>Sweetened condensed milk </li>
+    </ul>
+    <h2> Steps </h2>
+    <ol>
+      <li> Step 1 Combine chocolate and condensed milk in a saucepan. </li>
+      <li> Step 2 Remove from heat and pour into prepared pan. </li>
+      <li> Step 3 Place into refrigerator for 1 hour, then remove them to cut in to squares.</li>
+    </ol>
+    <h2> More Recipes </h2>
+    <ul>
+      <li> a href = "https://bakingamoment.com/easy-fudge-recipe/">fudge recipe</a></li>
+      <li> a href = "https://www.livewellbakeoften.com/easy-fudge-recipe/" </a></li>
+    </ul>
